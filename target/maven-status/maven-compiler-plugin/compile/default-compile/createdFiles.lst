@@ -1,0 +1,4 @@
+org\spring\smarthome\web\model\LightSensor.class
+org\spring\smarthome\web\config\SmartHomeConfig.class
+org\spring\smarthome\web\model\HumiditySensor.class
+org\spring\smarthome\web\model\TemperatureSensor.class
